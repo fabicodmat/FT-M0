@@ -68,3 +68,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     align-content: flex-end;
     flex-wrap: wrap;
 }
+
+#elementoUno{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
